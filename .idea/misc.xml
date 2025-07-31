@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Remote Python 3.8.13 (sftp://lab23spx@172.16.201.2:22/home/lab/lab23spx/anaconda3/envs/pytorch_env/bin/python3.8)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.8.13 (sftp://lab23spx@172.16.201.2:22/home/lab/lab23spx/anaconda3/envs/pytorch_env/bin/python3.8)" project-jdk-type="Python SDK" />
+</project>
