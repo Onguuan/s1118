@@ -6,7 +6,7 @@ A single-timestep spiking neural network that improves accuracy and reduces comp
 ## Directory Structure
 `main.py`  main training/testing
 
-`model.py`  model architecture definition
+`model.py`  model architecture
 
 `dataset.py`  data loading and preprocessing
 
